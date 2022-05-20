@@ -2,7 +2,7 @@
 
 # Joint-Atlas-Surfaces
 
-This work was build upon Thibault Groueix's [AtlasNet](https://github.com/ThibaultGROUEIX/AtlasNet) and my former project [Learning elementary structures]([https://github.com/ThibaultGROUEIX/AtlasNet](https://github.com/TheoDEPRELLE/AtlasNetV2))
+This work was build upon Thibault Groueix's [AtlasNet](https://github.com/ThibaultGROUEIX/AtlasNet) and my former project [Learning elementary structures](https://github.com/TheoDEPRELLE/AtlasNetV2).
 
 This repository contains the source codes for the paper [Learning Joint Surface Atlases]().
 
