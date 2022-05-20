@@ -1,4 +1,4 @@
-![teaset](utils/teaser.png)    
+![teaser](utils/teaser.png)    
 
 # Joint-Atlas-Surfaces
 
