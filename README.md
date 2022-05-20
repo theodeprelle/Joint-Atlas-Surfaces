@@ -21,7 +21,7 @@ comming soon.
 The project page is available [here](https://imagine.enpc.fr/~deprellt/joint-surface/).
 
 ### Before starting 
-This project requires the [Chamfer distance](https://github.com/ThibaultGROUEIX/ChamferDistancePytorch) module developped by Thibault Groueix. It should be pull and placed inside the project folder. Please follow Thibaults instructions for installation of the module
+This project requires the [Chamfer distance](https://github.com/ThibaultGROUEIX/ChamferDistancePytorch) module developped by Thibault Groueix. It should be cloned and placed inside the project folder. Please follow Thibault's instructions for the module instalation.
 
 ### How to run this code :
 
