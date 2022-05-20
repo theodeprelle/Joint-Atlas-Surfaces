@@ -1,4 +1,4 @@
-![teaser](utils/teaser.png)    
+![results](Data/results.jpg)    
 
 # Joint-Atlas-Surfaces
 
