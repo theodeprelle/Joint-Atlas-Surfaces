@@ -1,4 +1,4 @@
-![results](Data/results.jpg)    
+![results](Data/teaser.jpg)    
 
 # Joint-Atlas-Surfaces
 
@@ -7,6 +7,13 @@ This work was build upon Thibault Groueix's [AtlasNet](https://github.com/Thibau
 This repository contains the source codes for the paper [Learning Joint Surface Atlases]().
 
 :rotating_light: This is a **minimalistic version** of the code used to produce the results of the paper. You can find the dataset, the training losses and the architecture. This version of the code haven't been tested yet and his under construction. Most of the project features such as a trained model, visualisation, and evalution code will be added this summer 
+
+# Results 
+
+We are able to generate constistent joint surface atlases for a collection of shapes.
+
+![results](Data/results.jpg)    
+
 
 ### Citing this work
 
